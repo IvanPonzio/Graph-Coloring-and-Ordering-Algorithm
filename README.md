@@ -47,3 +47,4 @@ To perform the coloring and obtain the Jedi order of a graph, follow these steps
 
 Please note that the provided code is a template, and you may need to modify it or integrate it into your existing codebase to fit your specific requirements.
 
+The code expects the input graph to be in the DIMACS format.
